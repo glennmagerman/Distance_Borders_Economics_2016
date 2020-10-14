@@ -11,6 +11,6 @@ All code is written in Stata, and all do-files are available in this repo.
 
 Some important notes:
 
-You might need a Comtrade license to get access to the BACI/CEPII trade datasets.
+  - You might need a Comtrade license to get access to the BACI/CEPII trade datasets.
 
 Glenn
