@@ -1,6 +1,6 @@
 # Distance and Borders Effects in International Trade
 
-This repository contains all codes to replicate the empirical results in "Distance and Border Effects in International Trade: A Comparison of Estimation Methods", Economics 2016, by Glenn Magerman, Katrien De Bruyne and Jan Van Hove.
+This repository contains all codes to replicate the empirical results in "Distance and Border Effects in International Trade: A Comparison of Estimation Methods", Economics 2016, by Glenn Magerman, Zuzanna Studnicka and Jan Van Hove.
 
 Feel free to send a line to glenn.magerman@ulb.be for any questions or comments.
 
